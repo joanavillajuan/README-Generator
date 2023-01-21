@@ -20,11 +20,6 @@ const promptUser = () => {
     },
     {
       type: "input",
-      name: "tableOfContents",
-      message: "What is the projects Table of Contents?",
-    },
-    {
-      type: "input",
       name: "installation",
       message: "What are the steps required to install your project?",
     },
