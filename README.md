@@ -6,8 +6,6 @@ It is crucial to have a high-quality README when creating an open source project
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contribution](#contributors)
-- [Test](#test)
 - [Questions](#questions)
 
 ## Installation
