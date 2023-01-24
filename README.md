@@ -21,6 +21,6 @@ To use this project,use the command "node index.js" within the directory for thi
 This project is licensed under the MIT.
   cbhbvfihwvi
 ## Questions
-Github: [vjbwhvbihwvbhiw](https://github.com/vjbwhvbihwvbhiw)
+Github: [joanavillajuan](https://github.com/joanavillajuan)
 
-Email: biwbviwbiu
+Email: joanavillajuan27@gmail.com
